@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="images/PCA.png" width="48%" />
+  <img src="images/PCA-new.png" width="48%" />
   <img src="images/User%20Segmentation%201.png" width="48%" />
 </p>
 
